@@ -1,0 +1,19 @@
+body {
+  background-image: url('http://webweu.se/ab33/Bilder/WPS/Artistic/Rain-Artistic-Wallpaper.jpg');
+
+}
+
+div {
+}
+
+h1, h3 {
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+
+#temp {
+  font-size: 2em;
+  padding: 2em 0 2em 0;
+}
